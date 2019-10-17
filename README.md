@@ -1,4 +1,4 @@
-# HIVE protocol White Paper (Beta)
+# HIVE Protocol White Paper (Beta)
 
 <div>
   <span>
@@ -18,7 +18,7 @@ This version of the whitepaper focuses on the following topics:
 
 - Background.
 - BAPP: The next decade leading to Internet applications.
-- Hive Application Ecology: Linking Global Value Applications.
+- Hive Ecology: Linking Global Value Applications.
 - Hive APP: Global Cryptography Application Portal.
 - HIVE token.
 - Community roadmap.
