@@ -1,8 +1,9 @@
-# HIVE protocol White Paper
+# HIVE protocol White Paper (Beta)
+
 <div>
   <span>
     <a >
-      <img width="400px" src='./assets/icon_512x512.png'/>
+      <img width="200px" src='./assets/icon_512x512.png'/>
     </a>
   </span>
 </div>
@@ -18,8 +19,8 @@ This version of the whitepaper focuses on the following topics:
 - Background.
 - BAPP: The next decade leading to Internet applications.
 - Hive Application Ecology: Linking Global Value Applications.
-- Hive APP: Global Cryptography Application Portal
-- HIVE token
-- Community roadmap
+- Hive APP: Global Cryptography Application Portal.
+- HIVE token.
+- Community roadmap.
 
 [Read More](https://github.com/gscsocial/hive-whitepaper/blob/master/hive-whitepaper-en.md)
