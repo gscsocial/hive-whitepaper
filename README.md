@@ -8,6 +8,10 @@
   </span>
 </div>
 
+ <img width="250px" src='./assets/preview1.PNG'/>
+  <img width="250px" src='./assets/preview2.PNG'/>
+   <img width="250px" src='./assets/preview3.PNG'/>
+   
 ## Abstract
 
 Hive APP is a connection between blockchain and Internet, which is the entrance to cryptocurrency. Hive set up a decentralized protocol based on the value incentives. The Token from different APPs can be transacted and circulated within Hive APP，and consists of massive Hive ecology. Connecting to global value APPs and manage high-quality digital assets start from Hive.
