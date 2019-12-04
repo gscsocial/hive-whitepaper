@@ -314,6 +314,3 @@ By continuing to destroy the HIVE token, guarantee the deflation model of the to
 
 Hive will team up with GSC to carry out the Hive plan and invest $1 million in the development of GSC+Hive within half a year. Hive will support 10 applications through incubation/M&A/deep cooperation and complete the application of GID system and Token issuance based on GSC public chain. These applications will become the first bunch of HGA ecological applications.
  
-## 6. Community road map
- 
-
