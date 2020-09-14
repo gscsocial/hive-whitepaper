@@ -1,4 +1,4 @@
-# HIVE Protocol White Paper (Beta)
+# HIVE Protocol White Paper
 
 <div>
   <span>
